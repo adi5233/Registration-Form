@@ -1,2 +1,2 @@
 # Registration-Form
-used MERN stack and used on Heroku
+MERN stack project hosted on Heroku
